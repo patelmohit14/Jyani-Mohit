@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://img.freepik.com/premium-photo/cozy-anime-picture-boy-sat-his-desk-night-studying-while-there-are-stars-outside_27550-4823.jpg?w=740" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
